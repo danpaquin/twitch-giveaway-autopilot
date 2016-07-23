@@ -1,0 +1,5 @@
+.idea
+*.pyc
+*.txt
+test.py
+!requirements.txt
