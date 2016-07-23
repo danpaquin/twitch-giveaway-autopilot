@@ -15,7 +15,7 @@ A Twitch bot designed to win chat giveaways
 
 ## Getting Started
 - Download or clone this repository and place ```TwitchWinner.py``` into your active directory.
-- Go to (twitchapps.com/tmi)[www.twitchapps.com/tmi/] to get your oauth password
+- Go to [twitchapps.com/tmi](www.twitchapps.com/tmi/) to get your oauth password
 
 ```python
 from TwitchWinner import TwitchWinner
