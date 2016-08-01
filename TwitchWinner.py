@@ -79,7 +79,6 @@ class TwitchWinner():
                 data = data_split.pop()
 
                 for line in data_split:
-                    print (line)
                     line = str.rstrip(line)
                     line = str.split(line)
 
