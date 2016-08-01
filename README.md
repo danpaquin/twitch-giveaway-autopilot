@@ -7,8 +7,13 @@ A Twitch bot designed to win chat giveaways
 
 ## Benefits
 - In about 10 minutes, you could have a script participating in Twitch giveaways for you!
-- Educational purposes only!  You should not run this script for extended periods of time.
+- Please use for educational purposes only!  You should not run this script for extended periods of time.
 - Kickstart your own Python IRC Bot!  Change methods how you see fit and create something unique.
+
+## Proof
+- Following is a screenshot of me winning a StarCraft Beta Key on my birthday!
+
+![http://imgur.com/zqJtp7d](proof.png)
 
 ## Under Development
 - Thorough Testing **in progress**

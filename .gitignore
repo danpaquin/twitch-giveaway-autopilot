@@ -3,3 +3,4 @@
 *.txt
 test.py
 !requirements.txt
+!contributors.txt
